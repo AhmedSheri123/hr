@@ -14,6 +14,7 @@ import os
 from os.path import join
 from pathlib import Path
 
+
 import environ
 from django.contrib.messages import constants as messages
 
