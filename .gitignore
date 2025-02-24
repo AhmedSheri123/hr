@@ -149,3 +149,5 @@ whoosh_index/
 #VSCode
 .vscode/
 /خطة نجاح المشروع
+
+horilla/settings.py
